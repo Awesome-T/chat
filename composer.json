@@ -16,7 +16,7 @@
         "silex/silex": "1.2.*",
         "facebook/php-sdk": "3.2.*",
         "cboden/ratchet": "0.3.*",
-        "filp/whoops": "1.*"
+        "filp/whoops": "2.*"
     },
     "minimum-stability": "dev"
 }
